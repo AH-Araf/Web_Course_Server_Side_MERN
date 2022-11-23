@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "HTML",
+      "details": "At its heart, HTML is a language made up of elements, which can be applied to pieces of text to give them different meaning in a document (Is it a paragraph? Is it a bulleted list? Is it part of a table?), structure a document into logical sections (Does it have a header? Three columns of content? A navigation menu?), and embed content such as images and videos into a page. This module will introduce the first two of these and introduce fundamental concepts and syntax you need to know to understand HTML.",
+      "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzwEibNV82S22jpee3p3khx2qnoSYb6uGdA&usqp=CAU"
+    },
+    {
+      "id": "02",
+      "name": "CSS",
+      "details": "CSS stands for Cascading Style Sheets. It is the language for describing the presentation of Web pages, including colours, layout, and fonts, thus making our web pages presentable to the users. CSS is designed to make style sheets for the web. It is independent of HTML and can be used with any XML-based markup language. There are three main parts of CSS - selectors, properties, and values.",
+      "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"
+    },
+    {
+      "id": "03",
+      "name": "Java Script",
+      "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.",
+      "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXXUbhfRZelrxCBmgYfrAFg3vXANXilutKPg&usqp=CAU"
+    },
+    {
+      "id": "04",
+      "name": "Bootstrap",
+      "details": "Bootstrap is a free and open-source tool collection for creating responsive websites and web applications. It is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. It solves many problems which we had once, one of which is the cross-browser compatibility issue.",
+      "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaj5xMENZk1WBzT6GA53ZXFpj6vED5ht1Sk3AY3tAyY6Zf1PDTMzzeaNIzcc5R-vO5_ek&usqp=CAU"
+    },
+    {
+      "id": "05",
+      "name": "React JS",
+      "details": "The ReactJS framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+      "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxiFZo8hp7oqoftdM8UCkftr2ZDLY0C25LA&usqp=CAU"
+    },
+    {
+      "id": "06",
+      "name": "Mongo DB",
+      "details": "MongoDB is a popular, open source, scale-out NoSQL database that provides high throughput for your data-driven applications. Unlike relational databases such as SQL Server, Oracle, and MySQL, which store data in tables according to a rigid schema, MongoDB stores data in documents with flexible schema.",
+      "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUtqa7Mii6GY7fRwD2g3RA2rYCza71PAlQcw&usqp=CAU"
+    }
+  ]
